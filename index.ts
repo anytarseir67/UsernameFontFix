@@ -9,7 +9,7 @@ export default definePlugin({
         {
             find: "pixelify__89a31",
             replacement: {
-                match: /(cherryBomb|zillaSlab|chicle|museoModerno|neoCastel|pixelify|sinistre|playpenSans)__89a31/g,
+                match: /(cherryBomb|zillaSlab|chicle|museoModerno|neoCastel|pixelify|sinistre|playpenSans|orbitron|kalam|newRocker)__89a31/g,
                 replace: ""
             }
         }
