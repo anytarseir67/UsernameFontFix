@@ -7,9 +7,9 @@ export default definePlugin({
 
     patches: [
         {
-            find: "pixelify__89a31",
+            find: "pixelify_OAgVZM",
             replacement: {
-                match: /(cherryBomb|zillaSlab|chicle|museoModerno|neoCastel|pixelify|sinistre|playpenSans|orbitron|kalam|newRocker)__89a31/g,
+                match: /(cherryBomb|zillaSlab|chicle|museoModerno|neoCastel|pixelify|sinistre|playpenSans|orbitron|kalam|newRocker)_OAgVZM/g,
                 replace: ""
             }
         }
